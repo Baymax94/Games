@@ -1,3 +1,5 @@
+# 转载自[CharlesPikachu](https://github.com/CharlesPikachu)
+
 # Games
 ```sh
 Some games created by python code.
